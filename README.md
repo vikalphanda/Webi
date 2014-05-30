@@ -1,4 +1,6 @@
 Webi
 ====
 
-A Web intelligence engine initi
+A Web intelligence engine initiated at Pune Google Developers Group.
+
+
